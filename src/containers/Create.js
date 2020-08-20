@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { Row, Col, Container, Form, Button } from 'react-bootstrap';
 import './styles/Create.css';
-import AutoResponsive from 'autoresponsive-react';
 
 class Create extends React.Component {
   constructor(props) {
