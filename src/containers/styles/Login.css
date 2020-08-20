@@ -1,0 +1,35 @@
+.search-bar {
+  color: #ff5757;
+  background-color: transparent;
+  text-align: center;
+  min-width: 60%;
+  cursor: pointer;
+  display: block;
+  border: 2px solid #ff5757;
+  border-radius: 25px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.search-bar:focus {
+  color: white;
+  background-color: transparent;
+  text-align: center;
+  border: 2px solid #ff5757;
+  box-shadow: 0px 0px 2px 2px #ff7979;
+}
+
+.submit-button {
+  border-radius: 35px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 35px;
+  min-width: 100px;
+}
+
+.create-account-link {
+  margin-top: 150px;
+}
+
+.login-text {
+  margin: 0;
+}
