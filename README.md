@@ -2,7 +2,28 @@
 
 This client is built using react and was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This client is currently partially complete, and more will be added soon.
+## Current Functionality
+- Login/Logout with AWS User Pools and Amplify
+- Create Account with AWS User Pools and Amplify
+
+#### Core features will be added soon:
+- Allow users to explore prebuilt recipes
+- Allow users to create/save their own recipes
+- Allow users to like and share recipes
+
+## Screenshots
+
+#### Home
+![Home Mobile](https://github.com/BioTerran/recipes-app-client/blob/master/screenshots/home-mobile.png?raw=true)
+![Home](https://github.com/BioTerran/recipes-app-client/blob/master/screenshots/home.png?raw=true)
+
+#### Sign In
+![Sign In Mobile](https://github.com/BioTerran/recipes-app-client/blob/master/screenshots/signin-mobile.png?raw=true)
+![Sign In](https://github.com/BioTerran/recipes-app-client/blob/master/screenshots/signin.png?raw=true)
+
+#### Create Account
+![Create Account Mobile](https://github.com/BioTerran/recipes-app-client/blob/master/screenshots/create-account-mobile.png?raw=true)
+![Create Account](https://github.com/BioTerran/recipes-app-client/blob/master/screenshots/create-account.png?raw=true)
 
 ## Available Scripts
 
